@@ -10,8 +10,8 @@ Security fixes target the latest stable ARMHPC release series, currently 1.2.x. 
 
 Use **Security → Advisories → Report a vulnerability** in the affected repository:
 
-- [armhpc-ota](https://github.com/ArmbianHPC/armhpc-ota/security/advisories/new)
-- [armbian-hpc](https://github.com/ArmbianHPC/armbian-hpc/security/advisories/new)
+- [armhpc-ota](https://github.com/edgehpc/armhpc-ota/security/advisories/new)
+- [armbian-hpc](https://github.com/edgehpc/armbian-hpc/security/advisories/new)
 
 Include the affected version, board/profile, impact and minimal reproduction. Send only the information needed to reproduce the issue. Never include real signing keys, SSH private keys, passwords, cluster tokens, full device backups or raw identity partitions. Do not post an unfixed exploit or credentials in a public issue.
 

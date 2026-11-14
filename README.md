@@ -1,8 +1,8 @@
-# ARMHPC community resources
+# EdgeHPC community resources
 
 [简体中文](README.zh-CN.md)
 
-This repository contains the public organization profile and shared contribution, support, security and issue/PR guidance for ARMHPC repositories.
+This repository contains the EdgeHPC organization profile and shared contribution, support, security and issue/PR guidance.
 
 - [Organization profile](profile/README.md)
 - [Contributing](CONTRIBUTING.md)
