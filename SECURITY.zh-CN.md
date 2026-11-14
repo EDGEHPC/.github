@@ -12,6 +12,7 @@
 
 - [armhpc-ota](https://github.com/edgehpc/armhpc-ota/security/advisories/new)
 - [armbian-hpc](https://github.com/edgehpc/armbian-hpc/security/advisories/new)
+- [edgehpc](https://github.com/EDGEHPC/edgehpc/security/advisories/new)
 
 说明受影响版本、板卡／配置、影响及最小复现步骤。只提供复现需要的资料，不包含真实签名私钥、SSH 私钥、密码、集群 token、完整设备备份或原始身份分区。未修复漏洞的利用细节和凭据不放入公开 Issue。
 
