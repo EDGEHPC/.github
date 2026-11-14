@@ -1,8 +1,8 @@
-# ARMHPC 社区资料
+# EdgeHPC 社区资料
 
 [English](README.md)
 
-本仓库维护组织主页，以及各 ARMHPC 仓库共用的贡献、支持、安全和 Issue／PR 说明。
+本仓库维护 EdgeHPC 组织主页，以及组织内仓库共用的贡献、支持、安全和 Issue／PR 说明。
 
 - [组织主页](profile/README.zh-CN.md)
 - [贡献说明](CONTRIBUTING.zh-CN.md)

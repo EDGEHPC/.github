@@ -22,7 +22,7 @@ ARMHPC 目前由 [chens32](https://github.com/chens32) 一人维护。贡献者�
 - 对应源码、许可证、依赖清单和构建来源放入约定包内或源码文档。保留旧发行载荷原字节及任务／包绑定；二进制修正使用新版本。
 - 软件检查和实机结果分别记录，硬件验收字段随对应证据更新。尚未补齐的引导组件来源记录继续保留。
 
-[仓库维护说明](https://github.com/ArmbianHPC/armhpc-ota/blob/main/docs/MAINTENANCE.zh-CN.md)介绍 CI 与签名边界。后续完整附件和来源核查就绪后可启用 GitHub 不可变发行。
+[仓库维护说明](https://github.com/edgehpc/armhpc-ota/blob/main/docs/MAINTENANCE.zh-CN.md)介绍 CI 与签名边界。后续完整附件和来源核查就绪后可启用 GitHub 不可变发行。
 
 ## 日常
 

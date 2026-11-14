@@ -8,7 +8,7 @@
 - `armbian-hpc`: image composition, boot/storage integration, drivers, device commands and recovery.
 - `.github`: organization profile and shared community guidance.
 
-Use [Discussions](https://github.com/ArmbianHPC/armbian-hpc/discussions) for usage questions and design discussions. Report reproducible defects through the issue forms. Use the [security policy](SECURITY.md) for vulnerabilities.
+Use [Discussions](https://github.com/edgehpc/armbian-hpc/discussions) for usage questions and design discussions. Report reproducible defects through the issue forms. Use the [security policy](SECURITY.md) for vulnerabilities.
 
 ## Submit a change
 

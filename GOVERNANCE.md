@@ -22,7 +22,7 @@ Use `vMAJOR.MINOR.PATCH` titles. English notes briefly describe changes and link
 - Put required sources, licenses, dependency inventory and build provenance inside the agreed packages or source documentation. Preserve old published payload bytes and task/package bindings; corrections to binary content use a new version.
 - Record software checks and actual device results separately. Hardware acceptance fields change only with the corresponding evidence. Keep unresolved boot-component provenance visible in source records.
 
-The [repository maintenance guides](https://github.com/ArmbianHPC/armhpc-ota/blob/main/docs/MAINTENANCE.md) document CI and signing boundaries. Future releases can use GitHub immutable releases once the complete package and source review is ready.
+The [repository maintenance guides](https://github.com/edgehpc/armhpc-ota/blob/main/docs/MAINTENANCE.md) document CI and signing boundaries. Future releases can use GitHub immutable releases once the complete package and source review is ready.
 
 ## Routine
 

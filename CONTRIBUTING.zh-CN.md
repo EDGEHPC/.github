@@ -8,7 +8,7 @@
 - `armbian-hpc`：镜像组合、引导／存储、驱动、设备命令和恢复。
 - `.github`：组织主页和共用社区资料。
 
-使用问题和方案讨论请到[讨论区](https://github.com/ArmbianHPC/armbian-hpc/discussions)，可复现的问题通过 Issue 表单提交。漏洞请按[安全说明](SECURITY.zh-CN.md)私密报告。
+使用问题和方案讨论请到[讨论区](https://github.com/edgehpc/armbian-hpc/discussions)，可复现的问题通过 Issue 表单提交。漏洞请按[安全说明](SECURITY.zh-CN.md)私密报告。
 
 ## 提交变更
 
