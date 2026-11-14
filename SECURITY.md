@@ -12,6 +12,7 @@ Use **Security → Advisories → Report a vulnerability** in the affected repos
 
 - [armhpc-ota](https://github.com/edgehpc/armhpc-ota/security/advisories/new)
 - [armbian-hpc](https://github.com/edgehpc/armbian-hpc/security/advisories/new)
+- [edgehpc](https://github.com/EDGEHPC/edgehpc/security/advisories/new)
 
 Include the affected version, board/profile, impact and minimal reproduction. Send only the information needed to reproduce the issue. Never include real signing keys, SSH private keys, passwords, cluster tokens, full device backups or raw identity partitions. Do not post an unfixed exploit or credentials in a public issue.
 

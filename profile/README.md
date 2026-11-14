@@ -12,6 +12,7 @@ ARMHPC combines reusable device-management components with explicit board profil
 | --- | --- | --- |
 | [armbian-hpc](https://github.com/edgehpc/armbian-hpc) | Firmware composition, board integration, Rescue A/B, SATA installation and recovery. | [Images and system OTA](https://github.com/edgehpc/armbian-hpc/releases/latest) |
 | [armhpc-ota](https://github.com/edgehpc/armhpc-ota) | Signed upgrade engine and Windows/Linux controllers using SSH/SFTP or supported USB serial interfaces. | [MSI, Linux CLI and maintenance](https://github.com/edgehpc/armhpc-ota/releases/latest) |
+| [edgehpc](https://github.com/EDGEHPC/edgehpc) | MoonBit tools for ARM64 edge nodes with unreliable uplinks. | In development; no firmware image yet. |
 
 ## Start here
 

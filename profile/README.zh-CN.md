@@ -12,6 +12,7 @@ ARMHPC 通过板卡配置组合通用设备管理组件。框架支持 ARM64／A
 | --- | --- | --- |
 | [armbian-hpc](https://github.com/edgehpc/armbian-hpc) | 固件组合、板卡接入、Rescue A/B、SATA 安装与恢复。 | [镜像和系统 OTA](https://github.com/edgehpc/armbian-hpc/releases/latest) |
 | [armhpc-ota](https://github.com/edgehpc/armhpc-ota) | 签名升级引擎及 Windows／Linux 上位机，通过 SSH/SFTP 或受支持的 USB 串口连接设备。 | [MSI、Linux CLI 和维护包](https://github.com/edgehpc/armhpc-ota/releases/latest) |
+| [edgehpc](https://github.com/EDGEHPC/edgehpc) | 面向弱网 ARM64 边缘设备的 MoonBit 工具。 | 开发中，尚未发布镜像。 |
 
 ## 开始使用
 

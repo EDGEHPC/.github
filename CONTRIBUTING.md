@@ -6,6 +6,7 @@
 
 - `armhpc-ota`: controller UI/CLI, SSH/serial transport, signatures, upgrade state and maintenance.
 - `armbian-hpc`: image composition, boot/storage integration, drivers, device commands and recovery.
+- `edgehpc`: MoonBit snapshot inspection and edge-node runtime.
 - `.github`: organization profile and shared community guidance.
 
 Use [Discussions](https://github.com/edgehpc/armbian-hpc/discussions) for usage questions and design discussions. Report reproducible defects through the issue forms. Use the [security policy](SECURITY.md) for vulnerabilities.

@@ -6,6 +6,7 @@
 
 - `armhpc-ota`：上位机 UI／CLI、SSH／串口、签名、升级状态和维护工具。
 - `armbian-hpc`：镜像组合、引导／存储、驱动、设备命令和恢复。
+- `edgehpc`：MoonBit 健康快照检查与边缘节点运行软件。
 - `.github`：组织主页和共用社区资料。
 
 使用问题和方案讨论请到[讨论区](https://github.com/edgehpc/armbian-hpc/discussions)，可复现的问题通过 Issue 表单提交。漏洞请按[安全说明](SECURITY.zh-CN.md)私密报告。
